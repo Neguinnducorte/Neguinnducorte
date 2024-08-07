@@ -6,3 +6,5 @@ Meu nome é Lucas Gabriel
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e
 compartilhamento dos meus projetos desenvolvidos
+
+![Neymar](https://c.tenor.com/ea3P9_CRVwIAAAAd/tenor.gif)
